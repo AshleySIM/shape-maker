@@ -1,6 +1,6 @@
 const container = document.querySelector('.container');
 const colors = ['red', 'blue', 'green'];
-const sizes = ['sm', 'md', 'lg'];
+const sizes = ['sm', 'md', 'lg',];
 
 function randomShape(){
   const colorIdx = Math.floor(Math.random()*colors.length);
